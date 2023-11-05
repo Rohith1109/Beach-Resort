@@ -1,0 +1,55 @@
+#fdiv{
+    text-align: center;
+    color: #926239;
+    background-image: url(https://cdn.pixabay.com/photo/2019/09/12/15/21/resort-4471852__340.jpg);
+    margin:140px 60px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 280px;
+    width: 90%;
+    
+}
+button:hover{
+    background-color: #926239;
+    color: white;
+    border: 1px solid black;
+
+}
+button{
+    cursor: pointer;
+    padding: 10px 12px;
+    color: #926239;
+    border-radius: 10px;
+    border: 1px solid #926239 ;
+}
+#sdiv{
+    text-align: center;
+}
+#sec1{
+    /* border: 1px solid black; */
+    color: whitesmoke;
+    background-color: #926239;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+#sec2{
+    color: #926239;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+.para{
+    background-color: #926239;
+    color: white;
+    border: 1px solid white;
+    width: 210px;
+    padding: 20px;
+    display: inline-block;
+    font-size: 12px;
+}
+#sec4{
+    color: #926239;
+    display: inline-block;
+    width: 210px;
+    font-size: 12px;
+   }
